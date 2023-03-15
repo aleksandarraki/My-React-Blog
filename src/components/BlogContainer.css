@@ -1,0 +1,32 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    gap: 15px;
+}
+
+.title {
+    background-color: rgb(179, 65, 65);
+    color: white;
+    font-size: 30px;
+    width: 80%;
+    text-align: center;
+
+}
+
+.list-item {
+    background-color: rgb(87, 87, 100);
+    color: white;
+    width: 70%;
+
+}
+
+h4 {
+    margin-left: 15px;
+}
+
+p {
+    margin-left: 25px;
+}
